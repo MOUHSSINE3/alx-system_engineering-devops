@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd -R 444
+chomd -R +X .
