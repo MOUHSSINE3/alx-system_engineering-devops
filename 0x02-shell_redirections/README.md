@@ -2,4 +2,5 @@ echo
 cat
 head
 tail
-find 
+find
+wc
